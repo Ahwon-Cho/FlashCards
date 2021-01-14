@@ -1,6 +1,6 @@
 # Flash Card App
 
-This app is to create flash cards and play quiz. You can use this app for your exam preparation or others. 
+This app is to create flash cards and play quiz for Udacity React Nanodegree Program. You can use this app for your exam preparation or others. 
 
 This project has been tested in IOS emulator 
 On iOS simulators, since they don't support registering for push notifications, you will always get undetermined result.
